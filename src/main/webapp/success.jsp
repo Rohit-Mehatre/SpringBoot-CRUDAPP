@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Registration Page</title>
+<title>Success Page</title>
 <link rel="stylesheet" type="text/css" href="styles.css">
 
 <script type="text/javascript">
